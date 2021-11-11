@@ -3,7 +3,14 @@
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
-  "keywords": [],
+  "keywords": [
+    "persisted",
+    "store",
+    "local",
+    "session",
+    "memory",
+    "AlpineJS"
+  ],
   "author": "Eric Kwoka",
   "license": "MIT"
 }
