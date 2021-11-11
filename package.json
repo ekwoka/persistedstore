@@ -1,0 +1,9 @@
+{
+  "name": "@ekwoka/persistedstore",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "keywords": [],
+  "author": "Eric Kwoka",
+  "license": "MIT"
+}
